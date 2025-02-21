@@ -1,0 +1,1 @@
+contenido sobre el registro de usuarios
